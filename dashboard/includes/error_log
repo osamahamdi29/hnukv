@@ -1,0 +1,4 @@
+[19-Apr-2021 15:25:25 America/New_York] PHP Warning:  include_once(../admin/controller/offerwalls-controller.php): failed to open stream: No such file or directory in /home/bestorvj/egcash.online/dashboard/includes/dashboard_offerwalls.php on line 16
+[19-Apr-2021 15:25:25 America/New_York] PHP Warning:  include_once(): Failed opening '../admin/controller/offerwalls-controller.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestorvj/egcash.online/dashboard/includes/dashboard_offerwalls.php on line 16
+[19-Apr-2021 15:25:25 America/New_York] PHP Notice:  Undefined variable: active_offerwalls in /home/bestorvj/egcash.online/dashboard/includes/dashboard_offerwalls.php on line 26
+[19-Apr-2021 15:25:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/bestorvj/egcash.online/dashboard/includes/dashboard_offerwalls.php on line 26
